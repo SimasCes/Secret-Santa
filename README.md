@@ -1,5 +1,5 @@
 # Secret Santa
-<img src="Image/secsant.png>
+<img src="Image/secsant.png">
 # Program
 This is an implementation of "Secret Santa" gift giving. Secret Santa is where a group of poeple decides that instead of buying many cheap presents, each person will buy for only one other person in the group and get a more expensive present. That means you will get one present and will buy one present (for everyone in the group).
 
